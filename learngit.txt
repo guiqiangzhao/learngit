@@ -1,2 +1,3 @@
 Learning git.
 To learn git.
+add new.txt.
