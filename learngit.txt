@@ -3,3 +3,4 @@ To learn git.
 add new.txt.
 add new line.
 create a new branch called dev.
+construction & conflict.·
